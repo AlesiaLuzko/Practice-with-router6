@@ -1,0 +1,14 @@
+.link {
+    margin: 0 50px;
+    text-decoration: none;
+    color: white;
+}
+
+.navbar {
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+footer {
+    text-align: center;
+}
